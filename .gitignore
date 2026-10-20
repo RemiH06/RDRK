@@ -1,0 +1,13 @@
+# Dataset gateado: no se redistribuye (ver README)
+data/
+*.vcf
+*.vcf.gz
+*.tbi
+*.fastq
+*.fastq.gz
+*.bam
+*.docx
+
+.env
+.ipynb_checkpoints/
+__pycache__/
