@@ -8,7 +8,7 @@
 ██╔══██╗██║  ██║██╔══██╗██╔═██╗
 ██║  ██║██████╔╝██║  ██║██║  ██╗
 ╚═╝  ╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-       by Hex (@RemiH06)          version 0.1
+       by RemLam (@RemiH06)          version 0.1
 ```
 
 ![MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)
@@ -62,4 +62,4 @@ Quedaron como ideas, sin planes de implementarlas:
 
 ## Autoría
 
-por Hex ([@RemiH06](https://github.com/RemiH06))
+por RemLam ([@RemiH06](https://github.com/RemiH06))
